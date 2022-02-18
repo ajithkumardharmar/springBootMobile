@@ -1,0 +1,65 @@
+
+
+
+.add_inputs1 {
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	width: 300px;
+	height: 25px;
+}
+
+.add_con {
+	position: absolute;
+	left: 420px;
+	margin-top: 30px;
+	background-color: white;
+	width: 40%;
+	height: 360px;
+	padding: 20px;
+	border-color: brown;
+	border-radius: 10px;
+	border-style: solid;
+}
+.add_con1 {
+	position: absolute;
+	left: 450px;
+	margin: 40px;
+}
+
+
+.btn_add:hover {
+	background-color: cornflowerblue;
+}
+
+form {
+	display: table;
+}
+
+p {
+	display: table-row;
+}
+
+label {
+	display: table-cell;
+}
+
+input {
+	display: table-cell;
+	position: absolute;
+	left: 160px;
+}
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.btn  {
+	width: 200px;
+}
+
+
